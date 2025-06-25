@@ -1,0 +1,36 @@
+.container {display: grid;
+    text-align: center;
+    align-items: center center;
+    justify-content: center;
+    flex-direction: row;
+grid-template-columns: 200px 10px 10px;
+
+}
+
+.video {margin-left: -5px;
+    padding: -5;
+
+}
+
+.item1 {position: fixed;
+    top: 1%;
+    right: 2%;
+    width: 1440px;
+    height: 56px;
+  
+   
+}
+
+.item2 {
+
+   position: fixed;
+  right: 7%;
+  top: 12%;
+
+}
+.item3 {
+    position: fixed;
+
+  left: 10px; /* Cola o elemento à esquerda */
+  top: 7%; /* Centraliza verticalmente (opcional) */
+}
