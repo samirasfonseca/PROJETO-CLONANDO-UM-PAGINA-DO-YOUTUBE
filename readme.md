@@ -24,21 +24,13 @@ Este projeto é um clone da interface do YouTube, desenvolvido com **HTML5** e *
 ## 📂 Estrutura do Projeto
 
 
----
-
-## 📱 Responsividade
-
-O layout foi desenvolvido para ser compatível com diferentes resoluções de tela:  
-🖥️ **Desktop** | 📱 **Mobile** | 💻 **Tablet**
-
----
 
 ## 🎯 Objetivos de Aprendizado
 
 - Prática de **HTML semântico**
-- Uso de **Flexbox** e **Grid Layout**
-- Implementação de **design responsivo**
+- Uso de **CSS3**
 - Aprimorar a organização de arquivos em projetos front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -52,8 +44,7 @@ O layout foi desenvolvido para ser compatível com diferentes resoluções de te
 
 Durante o desenvolvimento deste projeto, reforcei conceitos como:
 
-- Organização de seções usando `div`, `section`, `header`, `footer`
-- Alinhamento de elementos com `flex` e `grid`
+- Organização de seções usando `div`, `header`, `footer`
 - Importação e uso de fontes e ícones externos
 
 ---
@@ -75,7 +66,7 @@ Sinta-se livre para usar como base para seus próprios estudos!
 ## 💻 Autor
 
 Feito com 💙 por [Seu Nome Aqui]  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/seu-usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samira-santos-92364911a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
 
 ---
