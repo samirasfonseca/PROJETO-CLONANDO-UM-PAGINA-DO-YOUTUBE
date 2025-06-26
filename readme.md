@@ -68,6 +68,6 @@ Sinta-se livre para usar como base para seus próprios estudos!
 
 Feito com 💙 por [Seu Nome Aqui]  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samira-santos-92364911a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samirasfonseca)
 
 ---
