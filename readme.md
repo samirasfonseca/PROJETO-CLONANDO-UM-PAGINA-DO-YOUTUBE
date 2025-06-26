@@ -6,7 +6,8 @@ Este projeto é um clone da interface do YouTube, desenvolvido com **HTML5** e *
 
 ## ✨ Demonstração
 
-<img >src"(./assets/youtube-clone-preview.png)"
+![Texto alternativo](./assets/página.png)
+
 
 > _"Mais que um repositório, um diário de aprendizado."_ 📚
 
