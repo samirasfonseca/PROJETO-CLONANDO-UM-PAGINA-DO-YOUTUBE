@@ -15,7 +15,6 @@ Este projeto é um clone da interface do YouTube, desenvolvido com **HTML5** e *
 
 - ✅ HTML5
 - ✅ CSS3 
-- ✅ Ícones do Google (Material Icons)
 - ✅ Estrutura sem frameworks — puro HTML e CSS
 
 ---
