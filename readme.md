@@ -1,6 +1,6 @@
 # 📺 Clone da Página do YouTube
 
-Este projeto é um clone da interface do YouTube, desenvolvido com **HTML5** e **CSS3**. Foi criado com o objetivo de praticar e demonstrar habilidades em desenvolvimento front-end, focando em responsividade, semântica e fidelidade visual.
+Este projeto é um clone da interface do YouTube, desenvolvido com **HTML5** e **CSS3**. Foi criado com o objetivo de praticar e demonstrar habilidades em desenvolvimento front-end.
 
 ---
 
@@ -8,8 +8,6 @@ Este projeto é um clone da interface do YouTube, desenvolvido com **HTML5** e *
 
 ![Texto alternativo](./assets/página.png)
 
-
-> _"Mais que um repositório, um diário de aprendizado."_ 📚
 
 ---
 
@@ -45,7 +43,7 @@ Este projeto é um clone da interface do YouTube, desenvolvido com **HTML5** e *
 
 Durante o desenvolvimento deste projeto, reforcei conceitos como:
 
-- Organização de seções usando `div`, `header`, `footer`
+- Organização de seções usando `div`, `header`
 - Importação e uso de fontes e ícones externos
 
 ---
@@ -55,18 +53,12 @@ Durante o desenvolvimento deste projeto, reforcei conceitos como:
 Este projeto foi inspirado na interface real do YouTube para fins educacionais.  
 Todo o conteúdo é fictício e sem fins comerciais.
 
----
-
-## 📎 Licença
-
-Este projeto está sob a licença MIT.  
-Sinta-se livre para usar como base para seus próprios estudos!
 
 ---
 
 ## 💻 Autor
 
-Feito com 💙 por [Seu Nome Aqui]  
+Feito com 💙 por [Samira]  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samira-santos-92364911a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samirasfonseca)
 
